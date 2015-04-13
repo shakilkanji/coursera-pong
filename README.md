@@ -1,6 +1,6 @@
 # Pong Game
 
-Week 6 Mini-project for [An Introduction to Interactive Programming in Python (Part 2)](https://www.coursera.org/course/interactivepython2)
+Week 4 Mini-project for [An Introduction to Interactive Programming in Python (Part 2)](https://www.coursera.org/course/interactivepython2)
 
 Uses SimpleGUI from Codeskulptor.
 
